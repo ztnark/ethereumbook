@@ -1,6 +1,6 @@
 == Tokens
 
-=== What are tokens?
+=== What are tokens??
 
 The word _token_ derives from the Old English "tacen" meaning a sign or symbol. Commonly used to mean privately-issued coin-like items that have insignificant value, as used in transportation tokens, laundry tokens, arcade tokens.
 
